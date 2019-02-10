@@ -29,7 +29,7 @@ Haven't heard of Monero? Then do me the favor of checking out: https://www.getmo
 Available Scripts
 -----------
 * usermigration.py : User Migrations
-* * Description: This script will recreate all your Emby users, with their specified policies and configurations
+* * Description: This script will recreate all your Emby users, with their specified policies and configurations on another server.
 * * Usage notes: The script will prompt you via the command line for your current media server information (IP/PORT/ADMIN user) and then again for you the destination media server.
 
 

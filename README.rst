@@ -26,6 +26,14 @@ If you find this project useful, please consider a donation to the following Mon
 
 Haven't heard of Monero? Then do me the favor of checking out: https://www.getmonero.org/
 
+Available Scripts
+-----------
+* usermigration.py : User Migrations
+* * Description: This script will recreate all your Emby users, with their specified policies and configurations
+* * Usage notes: The script will prompt you via the command line for your current media server information (IP/PORT/ADMIN user) and then again for you the destination media server.
+
+
+
 Usage
 -----------
 
@@ -47,12 +55,4 @@ Usage
 4. python <scriptname>.py
 
 4a. The script may ask you for command line input
-
-
-Available Scripts
------------
-* usermigration.py : User Migrations
-* * Description: This script will recreate all your Emby users, with their specified policies and configurations
-* * Usage notes: The script will prompt you via the command line for your current media server information (IP/PORT/ADMIN user) and then again for you the destination media server.
-
 
